@@ -1,0 +1,17 @@
+# Site settings
+title: Antalya Şafak Halı Yıkama
+email: yurtseven1507@hotmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Temiz halilar, sağlıklı yuvalar için bizi arayın. Halı, koltuk ve perde temizliğinde tüm Antalya'da hizmetinizdeyiz. 0242 226 00 11, 0532 766 07 15.
+baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "http://locahost:4000" # the base hostname & protocol for your site
+twitter_username: safakhaliyikama
+facebook_username: safakhaliyikama
+gplus_username: safakhaliyikama
+# github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _scss
+  compressed: true
